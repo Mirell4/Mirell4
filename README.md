@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mirella%20Costa%20Viana&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Engenharia%20da%20Computa%C3%A7%C3%A3o%20%F0%9F%92%BB&descAlignY=60&animation=fadeIn" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=220&section=header&text=Mirella%20Costa%20Viana&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Engenharia%20da%20Computa%C3%A7%C3%A3o%20%F0%9F%92%BB&descAlignY=60&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
@@ -43,15 +43,6 @@ Este repositório é o meu **diário de estudos**: aqui você vai encontrar tudo
 
 <hr>
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mirell4&show_icons=true&theme=cotton-candy&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirell4&layout=compact&theme=cotton-candy&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirell4&theme=cotton-candy&hide_border=true" />
-</p>
+<p align="center">💗 obrigada por passar por aqui!</p>
 
 
