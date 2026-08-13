@@ -1,7 +1,9 @@
-<h1 align="center">Oi, eu sou a Mirella Costa Viana 👋💗</h1>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mirella%20Costa%20Viana&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Engenharia%20da%20Computa%C3%A7%C3%A3o%20%F0%9F%92%BB&descAlignY=60&animation=fadeIn" alt="header" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Engenharia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Aprofundando+em+novas+linguagens+%F0%9F%9A%80;Bem-vindo(a)+ao+meu+diario+de+estudos+%F0%9F%93%94" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Aprofundando+em+novas+linguagens+%F0%9F%9A%80;Bem-vindo(a)+ao+meu+diario+de+estudos+%F0%9F%93%94" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -52,10 +54,4 @@ Este repositório é o meu **diário de estudos**: aqui você vai encontrar tudo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirell4&theme=cotton-candy&hide_border=true" />
 </p>
 
-<hr>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200"/>
-</p>
-
-<p align="center">✨ Obrigada por passar por aqui! ✨</p>
